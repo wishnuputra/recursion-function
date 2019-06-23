@@ -47,7 +47,6 @@ def polysum(n, s):
     return round((area(n, s)
                   + perimeter(n, s)**2), 4)
 
-
 print(polysum(6, 13))
 
 
